@@ -14,5 +14,13 @@ Mobile Light               |  Mobile Dark
 ## Demo
 ☞ https://opw-demo.netlify.app/
 
+## License
+### Code
+Check the license [here](/LICENSE)
+
+### Background Images
+The background images "bg-dark.png" and "bg-light.png" used in this project are licensed under the [Pixabay License](https://pixabay.com/service/license/).
+
+
 ### Useless Note
 Still a newbie in web development so the code may be clunky haha.
