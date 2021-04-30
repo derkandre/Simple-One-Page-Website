@@ -22,5 +22,5 @@ Check the license [here](/LICENSE)
 The background images "bg-dark.png" and "bg-light.png" used in this project are licensed under the [Pixabay License](https://pixabay.com/service/license/).
 
 
-### Useless Note
+#### Useless Note
 Still a newbie in web development so the code may be clunky haha.
