@@ -1,5 +1,7 @@
 body {
-    /** Image by M. Maggs from Pixabay  **/
+    /* Image by M. Maggs from Pixabay  
+    Image is licensed under the Pixabay License
+    <https://pixabay.com/service/license/> */
     background: url("../img/bg-light.png");
     max-width: 100%;
     max-height: 100%;
@@ -9,6 +11,8 @@ body {
 
 div.centerBox {
     background-color: rgba(250, 235 ,215, 0.6);
+    font-family: Verdana, Tahoma, serif;
+    font-size: 15px;
     text-align: center;
     box-shadow: 0 0 25px #353b48;
     margin: 0;

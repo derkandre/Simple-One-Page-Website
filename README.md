@@ -14,5 +14,5 @@ Mobile Light               |  Mobile Dark
 ## Demo
 ☞ https://opw-demo.netlify.app/
 
---
-Still a newbie in web development.
+### Useless Note
+Still a newbie in web development so the code may be clunky haha.

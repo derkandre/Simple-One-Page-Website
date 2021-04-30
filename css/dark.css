@@ -1,5 +1,7 @@
 body {
-    /* Image by M. Maggs from Pixabay  */
+    /* Image by M. Maggs from Pixabay  
+    Image is licensed under the Pixabay License
+    <https://pixabay.com/service/license/> */
     background: url("../img/bg-dark.png");
     max-width: 100%;
     max-height: 100%;
@@ -9,6 +11,8 @@ body {
 
 div.centerBox {
     background-color: rgba(245, 246, 250, 0.6);
+    font-family: Verdana, Tahoma, serif;
+    font-size: 15px;
     text-align: center;
     box-shadow: 0 0 25px #9ea3ad;
     margin: 0;
@@ -40,5 +44,3 @@ div.textbox {
         transform: translateY(-50%);
     }
 }
-
-/** Image by M. Maggs from Pixabay  **/
